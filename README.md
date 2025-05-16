@@ -149,6 +149,11 @@ npx react-native link      <== command
 
 <!-- ============================================================================== -->
 
+🔁 Analogy
+Package = A wrapped gift box you receive (install)
+
+Library = The item inside the box that you actually use (code, features)
+
 
 npm i react-native-vector-icons
 
@@ -173,3 +178,5 @@ npm install react-redux
 npm i axios
 
 npm i @stripe/stripe-react-native
+
+npm i react-native-full-responsive
