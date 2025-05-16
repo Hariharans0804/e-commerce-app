@@ -1,0 +1,13 @@
+export default {
+    PRIMARY_COLOR: '#19d3da',
+    DEFAULT_WHITE: '#FFFFFF',
+    DEFAULT_LIGHT_GRAY: '#f4f4f2',
+    NAVY_BLUE_COLOR: '#30475e',
+    DARK_PINK_COLOR: '#e05297',
+    DEFAULT_RED: '#DC3545',
+    DEFAULT_BLACK:'#1E2128',
+    // ACCENT_COLOR: 'ff6f00',
+    // DEFAULT_DARK_GRAY: '#91908D',
+    // DEFAULT_LIGHT_GRAY: '#E0DED9',
+    // MEALITEM_BG_COLOR: '#f5f5f5'
+}
