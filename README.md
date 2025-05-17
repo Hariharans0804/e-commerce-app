@@ -179,4 +179,8 @@ npm i axios
 
 npm i @stripe/stripe-react-native
 
+<!-- This library not using this project -->
+
 npm i react-native-full-responsive
+
+npm i react-native-app-auth
